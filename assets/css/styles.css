@@ -54,8 +54,6 @@ a:hover {
 }
 
 
-
-
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
@@ -282,7 +280,7 @@ header.masthead h1 {
  .why-logo  {
   font-size: 48px;
   float: left;
-  color: #7cc576;
+  color: #f4623a;
 }
 
 .why-me  p {
@@ -367,5 +365,9 @@ header.masthead h1 {
   transition: 0.4s;
   border-radius: 4px;
 }
+
+
+
+
 
 
